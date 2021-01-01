@@ -28,8 +28,12 @@ n -> Números de dados x ou y
 X -> Entrada de dados no eixo X
 Y -> Entrada de dados no eixo Y
 
+
 β = Ym - α.Xm
+
+
 Ym -> Média do y
+
 Xm -> Média do x
 
 Ym = 1/n Σ Yi
