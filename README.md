@@ -42,10 +42,3 @@ Pronto, simples, e você já tem uma linha feita com a Regressão Linear.
 
 Eu usei Ym e Xm nas fórmulas, mas normalmente para indicar a média desses números vai aparecer 
 um traço em cima.
-
-git init
-git add README.md
-git commit -m "Instruções do projeto"
-git branch -M main
-git remote add origin https://github.com/gottium-kaique/linear-regression-py.git
-git push -u origin main
